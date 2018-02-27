@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <!-- 
     Microsoft ResX Schema 
@@ -121,7 +121,7 @@
     <value>Вы уверены, что хотите выйти?</value>
   </data>
   <data name="AssignControlKeyboard" xml:space="preserve">
-    <value>Пожалуйста, нажмите кнопку</value>
+    <value>Пожалуйста, нажмите клавишу</value>
   </data>
   <data name="AssignControlMouse" xml:space="preserve">
     <value>Пожалуйста, нажмите кнопку мыши</value>
@@ -139,7 +139,7 @@
     <value>НЕЛЬЗЯ НАЗНАЧИТЬ КНОПКУ</value>
   </data>
   <data name="LoadScreenButtonContinueLastGame" xml:space="preserve">
-    <value>Продолжить последнюю игру</value>
+    <value>Продолжить игру</value>
   </data>
   <data name="ControlAlreadyAssigned" xml:space="preserve">
     <value>{0} уже назначена для {1}.
@@ -155,7 +155,7 @@
     <value>Создатели</value>
   </data>
   <data name="KeysDelete" xml:space="preserve">
-    <value>Delete</value>
+    <value>Удалить</value>
   </data>
   <data name="KeysDown" xml:space="preserve">
     <value>Вниз</value>
@@ -227,7 +227,7 @@
     <value>ДжойстикКнопкаВниз</value>
   </data>
   <data name="JoystickDeadzone" xml:space="preserve">
-    <value>Мёртвая зона джостика </value>
+    <value>Мёртвая зона джостика</value>
   </data>
   <data name="JoystickExponent" xml:space="preserve">
     <value>Точность джойстика</value>
@@ -235,8 +235,8 @@
   <data name="JoystickSensitivity" xml:space="preserve">
     <value>Чувствительность джойстика</value>
   </data>
-  <data name="ScreenOptionsControls_Keyboard" xml:space="preserve">
-    <value>Клавиатура</value>
+  <data name="ScreenOptionsControls_Keyboard1" xml:space="preserve">
+    <value>Клавиатура 1</value>
   </data>
   <data name="Language" xml:space="preserve">
     <value>Язык</value>
@@ -380,10 +380,10 @@
     <value>Двигаться вправо</value>
   </data>
   <data name="ControlTypeSystems1" xml:space="preserve">
-    <value>Системы 1</value>
+    <value>Системы / Взаимодействия</value>
   </data>
   <data name="ControlTypeSystems2" xml:space="preserve">
-    <value>Системы 2</value>
+    <value>Установка блоков</value>
   </data>
   <data name="KeysTab" xml:space="preserve">
     <value>Tab</value>
@@ -398,7 +398,7 @@
     <value>Вверх</value>
   </data>
   <data name="ControlName_UseOrInteract" xml:space="preserve">
-    <value>Использовать/взаимодействовать</value>
+    <value>Использовать / Взаимодействовать</value>
   </data>
   <data name="ControlName_PickUp" xml:space="preserve">
     <value>Взять</value>
@@ -407,13 +407,13 @@
     <value>Вертикальная синхронизация</value>
   </data>
   <data name="CaptureMouse" xml:space="preserve">
-    <value>Capture mouse</value>
+    <value>Захват мыши</value>
   </data>
   <data name="VideoMode" xml:space="preserve">
     <value>Режим видео</value>
   </data>
   <data name="ControlTypeToolsOrWeapons" xml:space="preserve">
-    <value>Инструменты/оружие</value>
+    <value>Инструменты/Оружие</value>
   </data>
   <data name="Yes" xml:space="preserve">
     <value>Да</value>
@@ -572,7 +572,7 @@
     <value>Выживание</value>
   </data>
   <data name="ScreenMenuButtonJoinWorld" xml:space="preserve">
-    <value>Присоединиться к игре</value>
+    <value>Присоединиться</value>
   </data>
   <data name="Name" xml:space="preserve">
     <value>Название</value>
@@ -644,10 +644,10 @@
     <value>Закрыть</value>
   </data>
   <data name="ControlName_DownOrCrouch" xml:space="preserve">
-    <value>Вниз/присесть</value>
+    <value>Вниз / Присесть</value>
   </data>
   <data name="ControlName_FirstOrThirdPerson" xml:space="preserve">
-    <value>Вид от первого/вид от третьего лица</value>
+    <value>Вид от первого/третьего лица</value>
   </data>
   <data name="ControlName_Forward" xml:space="preserve">
     <value>Вперёд</value>
@@ -668,7 +668,7 @@
     <value>Обучение</value>
   </data>
   <data name="ControlName_UpOrJump" xml:space="preserve">
-    <value>Вверх/прыжок</value>
+    <value>Вверх / Прыжок</value>
   </data>
   <data name="ControlName_CubeRotateVerticalNeg" xml:space="preserve">
     <value>Вращать блок по вертикали -</value>
@@ -719,10 +719,10 @@
     <value>Выбрать предмет из слота 9</value>
   </data>
   <data name="MessageBoxTextAreYouSureYouWantToQuickLoad" xml:space="preserve">
-    <value>Вы уверенны, что хотите использовать быструю загрузку?</value>
+    <value>Вы уверены, что хотите загрузить быстрое сохранение?</value>
   </data>
   <data name="MessageBoxTextAreYouSureYouWantToQuickSave" xml:space="preserve">
-    <value>Вы уверенны, что хотите использовать быстрое сохранение?</value>
+    <value>Вы уверены, что хотите использовать быстрое сохранение?</value>
   </data>
   <data name="ControlName_ToolbarConfig" xml:space="preserve">
     <value>Настройка панели инструментов</value>
@@ -802,7 +802,7 @@
   </data>
   <data name="MessageBoxTextRestartNeededAfterAdapterSwitch" xml:space="preserve">
     <value>Для смены адаптера требуется перезапустить игру.
-Перезапустить сейчас?</value>		 
+Перезапустить сейчас?</value>
   </data>
   <data name="ToolTipGameOptionsShowControlsHints" xml:space="preserve">
     <value>Отображать подсказки по управлению во время игры</value>
@@ -967,7 +967,7 @@
     <value>ОБНОВИТЬ МОД</value>
   </data>
   <data name="MessageBoxTextDoYouWishToPublishMod" xml:space="preserve">
-    <value>Вы уверенны, что хотите загрузить и опубликовать выбранный мод в мастерской {0}?
+    <value>Вы уверены, что хотите загрузить и опубликовать выбранный мод в мастерской {0}?
 Обратите внимание, что отправляя данный предмет, вы соглашаетесь с условиями юридического соглашения мастерской (см. {1})</value>
   </data>
   <data name="MessageBoxTextDoYouWishToUpdateMod" xml:space="preserve">
@@ -1139,7 +1139,7 @@
     <value>Игры друзей</value>
   </data>
   <data name="ScreenCaptionPlayers" xml:space="preserve">
-    <value>Игроки</value>
+    <value>Игроки в Сети</value>
   </data>
   <data name="ScreenPlayersLobby_Friends" xml:space="preserve">
     <value>Друзья</value>
@@ -1250,12 +1250,10 @@
     <value>Описание мира</value>
   </data>
   <data name="ScreenOptionsGame_UIOpacity" xml:space="preserve">
-    <value>Прозрачность пользовательского
-интерфейса</value>
+    <value>Прозрачность интерфейса</value>
   </data>
   <data name="ScreenOptionsGame_UIBkOpacity" xml:space="preserve">
-    <value>Прозрачность фона
-пользовательского интерфейса</value>
+    <value>Прозрачность фона интерфейса</value>
   </data>
   <data name="ScreenOptionsGame_HUDBkOpacity" xml:space="preserve">
     <value>Прозрачность фона ИЛС</value>
@@ -1406,7 +1404,7 @@
     <value>Сервера</value>
   </data>
   <data name="JoinGame_Title" xml:space="preserve">
-    <value>Присоединиться к игре</value>
+    <value>Присоединиться</value>
   </data>
   <data name="JoinGame_ColumnTitle_Ping" xml:space="preserve">
     <value>Пинг</value>
@@ -2065,7 +2063,7 @@
     <value>Пред. элемент панели инструментов</value>
   </data>
   <data name="ControlTypeToolsOrWeapons2" xml:space="preserve">
-    <value>Инструменты/оружие 2</value>
+    <value>Инструменты / Оружие 2</value>
   </data>
   <data name="ControlName_BuildMode" xml:space="preserve">
     <value>Режим строительства</value>
@@ -2342,8 +2340,8 @@
     <value>Симуляция всего локально</value>
   </data>
   <data name="ScreenDebugAdminMenu_ReplicateEverything_Tooltip" xml:space="preserve">
-    <value>ИСПОЛЬЗОВАТЬ С ИСКЛЮЧИТЕЛЬНОЙ ОСТОРОЖНОСТЬЮ! 
-    Ваша игра может зависнуть, пока полностью не завершится процесс. 
+    <value>ИСПОЛЬЗОВАТЬ С ИСКЛЮЧИТЕЛЬНОЙ ОСТОРОЖНОСТЬЮ!
+    Ваша игра может зависнуть, пока полностью не завершится процесс.
     Осторожно, в основном это свойственно для отладки. Этот параметр позволит имитировать компьютеру всё происходящее на сервере.</value>
   </data>
   <data name="ScreenDebugAdminMenu_CurrentValue" xml:space="preserve">
@@ -2380,10 +2378,10 @@
     <value>Добавлена идентификация {0}</value>
   </data>
   <data name="ToolTipGameOptionsUIOpacity" xml:space="preserve">
-    <value>Изменение прозрачности диалоговых окон пользовательского интерфейса</value>
+    <value>Изменение прозрачности диалоговых окон интерфейса</value>
   </data>
   <data name="ToolTipGameOptionsUIBkOpacity" xml:space="preserve">
-    <value>Изменение прозрачности фона диалоговых окон пользовательского интерфейса</value>
+    <value>Изменение прозрачности фона диалоговых окон интерфейса</value>
   </data>
   <data name="ToolTipGameOptionsHUDBkOpacity" xml:space="preserve">
     <value>Изменение прозрачности фона ИЛС</value>
@@ -2426,7 +2424,7 @@
   </data>
   <data name="MessageBoxTextF12Question" xml:space="preserve">
     <value>Вы входите на экран отладки разработчика. 
-Некоторые функции могут привести к сбою игры или другим ошибкам. 
+Некоторые функции могут привести к сбою игры или другим ошибкам.
 Продолжить?</value>
   </data>
   <data name="NotificationStatNotEnough" xml:space="preserve">
@@ -2451,7 +2449,7 @@
     <value>У вас уже есть знания о {0}!</value>
   </data>
   <data name="MessageBoxTextWorldExistsDownloadOverwrite" xml:space="preserve">
-    <value>Мир уже существует! Загрузить/перезаписать?</value>
+    <value>Мир уже существует! Загрузить / Перезаписать?</value>
   </data>
   <data name="MessageBoxTextWorldExistsOverwrite" xml:space="preserve">
     <value>Мир уже существует! Перезаписать?</value>
@@ -2496,7 +2494,7 @@
     <value>Своя игра</value>
   </data>
   <data name="ScreenMenuButtonJoinGame" xml:space="preserve">
-    <value>Присоединиться к игре</value>
+    <value>Присоединиться</value>
   </data>
   <data name="ScreenMenuButtonLoadGame" xml:space="preserve">
     <value>Загрузить игру</value>
@@ -2593,11 +2591,11 @@
     <value>ГП (прозрачность)</value>
   </data>
   <data name="PerformanceWarningHeading" xml:space="preserve">
-    <value>ПРЕДУПРЕЖДЕНИЯ О ПРОИЗВОДИТЕЛЬНОСТИ
-Нажмите Shift+{0} для получения дополнительной информации</value>
-  </data>
+    <value>ЕСТЬ ПРОБЛЕМЫ
+Нажмите Shift+{0}</value>
+</data>
   <data name="PerformanceWarningAreaAIDescription" xml:space="preserve">
-    <value>Обновление ИИ и поиска пути. Выключение кибер-злодеев и пауков.</value>
+    <value>Обновление ИИ и поиска пути. Выключение кибер-псов и пауков.</value>
   </data>
   <data name="PerformanceWarningAreaBlocksDescription" xml:space="preserve">
     <value>Обновление отдельных блоков. Слишком много блоков в мире.</value>
@@ -2622,8 +2620,7 @@
     <value>Обновление кислородных систем. Слишком много или слишком большие области с давлением.</value>
   </data>
   <data name="PerformanceWarningAreaPhysicsDescription" xml:space="preserve">
-    <value>Обновление физики. Слишком много отдельных объектов, взаимодействующих
-друг с другом.</value>
+    <value>Слишком много отдельных объектов, взаимодействующих друг с другом.</value>
   </data>
   <data name="PerformanceWarningAreaPostProcessDescription" xml:space="preserve">
     <value>Постобработка ГП. Включает сглаживание.</value>
@@ -2636,7 +2633,6 @@
   </data>
   <data name="PerformanceWarningAreaScriptsDescription" xml:space="preserve">
     <value>Выполнение скриптов программируемых блоков. Слишком много или слишком сложные скрипты.</value>
-				
   </data>
   <data name="PerformanceWarningAreaShadowsDescription" xml:space="preserve">
     <value>Визуализация теней. Снизьте качество теней.</value>
@@ -2853,7 +2849,7 @@
     <value>Максимум игроков</value>
   </data>
   <data name="ServerDetails_EnableCopyPaste" xml:space="preserve">
-    <value>Копирование/вставка</value>
+    <value>Копирование/Вставка</value>
   </data>
   <data name="ServerDetails_EnableSpectator" xml:space="preserve">
     <value>Наблюдатель</value>
@@ -2862,7 +2858,7 @@
     <value>Автосохранение в минутах</value>
   </data>
   <data name="ServerDetails_EnableRespawnShips" xml:space="preserve">
-    <value>Повторное появление кораблей/машин</value>
+    <value>Корабли возрождения / Машины</value>
   </data>
   <data name="ServerDetails_FloraDensityMultiplier" xml:space="preserve">
     <value>Множитель плотности флоры</value>
@@ -2910,13 +2906,13 @@
     <value>По умолчанию</value>
   </data>
   <data name="ServerSearch_EnableAdvanced" xml:space="preserve">
-    <value>Включить расширенные</value>
+    <value>Расширенный поиск</value>
   </data>
   <data name="ServerSearch_EnableAdvancedTooltip" xml:space="preserve">
     <value>Включить фильтры расширенного поиска</value>
   </data>
   <data name="ServerSearch_EnableNumericTooltip" xml:space="preserve">
-    <value>Включить или отскочить этот фильтр</value>
+    <value>Включить или выключить этот фильтр.</value>
   </data>
   <data name="JoinGame_DirectConnect" xml:space="preserve">
     <value>Прямое подключение</value>
@@ -3116,19 +3112,19 @@
     <value>У вас нет ни одного предмета. Вы можете получить предметы, играя в игру, или обмениваясь с другими игроками.</value>
   </data>
   <data name="GpsContainerRemainingTimeMins" xml:space="preserve">
-    <value>В - {0} м</value>
+    <value>Время - {0}мин.</value>
   </data>
   <data name="GpsContainerRemainingTimeSec" xml:space="preserve">
-    <value>В - {0} с</value>
+    <value>Время - {0}сек.</value>
   </data>
   <data name="GpsContainerRemainingTimeSecs" xml:space="preserve">
-    <value>В - {0} с</value>
+    <value>Время - {0}сек.</value>
   </data>
   <data name="GpsContainerRemainingTimeMinSec" xml:space="preserve">
-    <value>В - {0} м {1} с</value>
+    <value>Время - {0}мин. {1}сек.</value>
   </data>
   <data name="GpsContainerRemainingTimeMinSecs" xml:space="preserve">
-    <value>В - {0} м {1} с</value>
+    <value>Время - {0}мин. {1}сек.</value>
   </data>
   <data name="ScreenLoadInventoryLeftClickTip" xml:space="preserve">
     <value>ЛКМ - экипировать</value>
@@ -3143,18 +3139,17 @@
     <value>Нажмите {0}, чтобы открыть/закрыть шлем</value>
   </data>
   <data name="ScreenCaptionClaimGameItem" xml:space="preserve">
-    <value>Специальный контент</value>
+    <value>Особый предмет</value>
   </data>
   <data name="ScreenClaimItemText" xml:space="preserve">
-    <value>Испытайте свою удачу, чтобы
-получить новый особый предмет.</value>
+    <value>Испытайте свою удачу и получите новый предмет.</value>
   </data>
   <data name="ScreenCaptionNoGameItem" xml:space="preserve">
     <value>Ничего не найдено</value>
   </data>
   <data name="ScreenNoGameItemText" xml:space="preserve">
     <value>Вам не удалось найти какой-либо особый предмет.
-Испытайте свою удачу в другом месте.</value>
+Попытайтесь где-нибудь ещё.</value>
   </data>
   <data name="ScreenMenuButtonInventoryTooltip" xml:space="preserve">
     <value>Настройте внешний вид своего персонажа</value>
@@ -3821,5 +3816,14 @@ https://support.microsoft.com/kb/3120241
 Нажав CTRL + SHIFT + {0}, окрасится вся выбранная сетка.
 
 Выбранный цвет автоматически применяется ко всем новым блокам, которые вы строите.</value>
+ </data>
+  <data name="WorldFileCouldNotBeLoaded" xml:space="preserve">
+    <value>Этот файл, возможно, поврежден.</value>
+  </data>
+    <data name="MessageBoxTextAnselSpectatorDisabled" xml:space="preserve">
+    <value>Вы не можете передвигаться в Ansel, потому что в настройках карты отключен режим наблюдения.</value>
+  </data>
+    <data name="MessageBoxTextAnselTimeout" xml:space="preserve">
+    <value>(Исчезает через: {0})</value>
   </data>
 </root>
