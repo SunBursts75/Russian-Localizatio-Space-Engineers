@@ -872,7 +872,7 @@
     <value>Колесо мыши</value>
   </data>
   <data name="ScreenCubeBuilderBuildingBlocks" xml:space="preserve">
-    <value>Закладки:</value>
+    <value>Содержание:</value>
   </data>
   <data name="ScreenCubeBuilderCreativeMode" xml:space="preserve">
     <value>Творческий режим</value>
@@ -1813,7 +1813,7 @@
     <value>{0}</value>
   </data>
   <data name="ScreenCubeBuilderBlockCategories" xml:space="preserve">
-    <value>Закладки объектов:</value>
+    <value>Закладки:</value>
   </data>
   <data name="ScreenCubeBuilderBlockSearch" xml:space="preserve">
     <value>Поиск:</value>
