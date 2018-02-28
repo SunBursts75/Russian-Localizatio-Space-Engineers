@@ -614,13 +614,13 @@ PvP означает, что вы сможете ранить других иг�
     <value>Единственный выживший</value>
   </data>
   <data name="ControlName_ReactorsOnOff" xml:space="preserve">
-    <value>Вкл/выкл реакторы</value>
+    <value>Вкл/Выкл реакторы</value>
   </data>
   <data name="DisplayName_Scenario_EmptyWorld" xml:space="preserve">
     <value>Пустой мир</value>
   </data>
   <data name="ControlName_Jetpack" xml:space="preserve">
-    <value>Вкл/выкл реактивный ранец</value>
+    <value>Вкл/Выкл реактивный ранец</value>
   </data>
   <data name="NotEnoughMaterial" xml:space="preserve">
     <value>Недостаточно материалов для создания блока. Требуется хотя бы одна стальная пластина.</value>
@@ -1468,7 +1468,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
 Объём: {2} л{4}</value>
   </data>
   <data name="ControlName_InertialDampenersOnOff" xml:space="preserve">
-    <value>Вкл/выкл гасители инерции</value>
+    <value>Вкл/Выкл гасители инерции</value>
   </data>
   <data name="ControlName_UseSymmetry" xml:space="preserve">
     <value>Использование симметрии</value>
@@ -1676,10 +1676,10 @@ Shift-{0} непосредственно приведёт вас в меню а�
 или станцию непосредственно из буфера обмена</value>
   </data>
   <data name="WorldSettings_EnableCopyPaste" xml:space="preserve">
-    <value>Включить копирование/вставку</value>
+    <value>Копирование / Вставка</value>
   </data>
   <data name="WorldSettings_EnableWeapons" xml:space="preserve">
-    <value>Включить оружие</value>
+    <value>Доступность оружия</value>
   </data>
   <data name="AssemblerState_NotWorking" xml:space="preserve">
     <value>Сборочный аппарат повреждён или разобран</value>
@@ -2257,7 +2257,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Включить режим наблюдателя в мире</value>
   </data>
   <data name="WorldSettings_EnableSpectator" xml:space="preserve">
-    <value>Разрешить наблюдателей</value>
+    <value>Режим наблюдения</value>
   </data>
   <data name="PlayerCharacterColorBlack" xml:space="preserve">
     <value>Чёрный</value>
@@ -2311,7 +2311,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Статичное наблюдение. Вы можете управлять персонажем/кораблём, но камера остаётся на месте</value>
   </data>
   <data name="WorldSettings_Advanced" xml:space="preserve">
-    <value>Расширенные</value>
+    <value>Дополнительно</value>
   </data>
   <data name="TerminalTab_Factions" xml:space="preserve">
     <value>Фракции</value>
@@ -3152,13 +3152,13 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Блоки брони</value>
   </data>
   <data name="DisplayName_Category_CharacterAnimations" xml:space="preserve">
-    <value>Анимации персонажа</value>
+    <value>Анимации</value>
   </data>
   <data name="DisplayName_Category_CharacterTools" xml:space="preserve">
-    <value>Инструменты персонажа</value>
+    <value>Инструменты</value>
   </data>
   <data name="DisplayName_Category_ConveyorBlocks" xml:space="preserve">
-    <value>Грузовые/трансп. блоки</value>
+    <value>Грузовые/трансп.</value>
   </data>
   <data name="DisplayName_Category_ShipLights" xml:space="preserve">
     <value>Лампы</value>
@@ -3257,10 +3257,10 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Кабины</value>
   </data>
   <data name="DisplayName_Category_Power" xml:space="preserve">
-    <value>Энергетические блоки</value>
+    <value>Энергетические</value>
   </data>
   <data name="DisplayName_Category_Production" xml:space="preserve">
-    <value>Производственные блоки</value>
+    <value>Производственные</value>
   </data>
   <data name="ScreenDebugSpawnMenu_ItemAmount" xml:space="preserve">
     <value>Количество</value>
@@ -3353,7 +3353,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Включить вещание</value>
   </data>
   <data name="ControlName_Broadcasting" xml:space="preserve">
-    <value>Вкл/выкл вещание</value>
+    <value>Вкл/Выкл вещание</value>
   </data>
   <data name="LargeMissileTurretReloadingNotification" xml:space="preserve">
     <value>Перезарядка</value>
@@ -3969,7 +3969,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Включить вибрацию корабельных буров и сварщиков</value>
   </data>
   <data name="WorldSettings_EnableToolShake" xml:space="preserve">
-    <value>Включить вибрацию инструментов</value>
+    <value>Вибрация инструментов</value>
   </data>
   <data name="ProgrammableBlock_Editor_TextTooLong" xml:space="preserve">
     <value>Текст слишком длинный. Он не будет сохранён.</value>
@@ -4523,7 +4523,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Название кнопки</value>
   </data>
   <data name="WorldSettings_Enable3rdPersonCamera" xml:space="preserve">
-    <value>Включить вид от 3 лица</value>
+    <value>Включить вид от 3-го лица</value>
   </data>
   <data name="BlockPropertiesText_OxygenOutput" xml:space="preserve">
     <value>Выход кислорода: </value>
@@ -4820,7 +4820,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Включить флору</value>
   </data>
   <data name="WorldSettings_EnableConvertToStation" xml:space="preserve">
-    <value>Включить преобразование в станцию</value>
+    <value>Преобразование в станцию</value>
   </data>
   <data name="WorldSettings_FloraDensity" xml:space="preserve">
     <value>Плотность флоры</value>
@@ -5922,7 +5922,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>Нажмите {0} для переключения автоматической ориентации</value>
   </data>
   <data name="MaxBackupSaves" xml:space="preserve">
-    <value>Максимум резервных сохранений</value>
+    <value>Макс. резервных сохранений</value>
   </data>
   <data name="ToolTipWorldSettingsMaxBackupSaves" xml:space="preserve">
     <value>Настройте максимальное количество сохранений, для которых 
@@ -6768,7 +6768,7 @@ Shift-{0} непосредственно приведёт вас в меню а�
     <value>П-гравитация</value>
   </data>
   <data name="PressNumberAgain" xml:space="preserve">
-    <value>Нажмите число снова, чтобы изменить размер</value>
+    <value>Нажмите число для изменения размера</value>
   </data>
   <data name="RefreshBlueprints" xml:space="preserve">
     <value>Обновить чертежи</value>
